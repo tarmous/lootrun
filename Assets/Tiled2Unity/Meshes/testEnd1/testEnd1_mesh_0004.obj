@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'testEnd1_mesh_0004.obj'
+
+# Vertices (Count = 4)
+v -4 -4 0
+v -5 -4 0
+v -5 -3 0
+v -4 -3 0
+
+# Texture cooridinates (Count = 4)
+vt 0.3913043 0.6666666
+vt 0.4347826 0.6666666
+vt 0.4347826 0.7083334
+vt 0.3913043 0.7083334
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g testEnd1_mesh_0004
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+

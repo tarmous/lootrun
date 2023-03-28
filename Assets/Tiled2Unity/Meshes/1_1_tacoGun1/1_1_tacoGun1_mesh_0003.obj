@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for '1_1_tacoGun1_mesh_0003.obj'
+
+# Vertices (Count = 4)
+v -12 -7 0
+v -13 -7 0
+v -13 -6 0
+v -12 -6 0
+
+# Texture cooridinates (Count = 4)
+vt 0.5652174 0.75
+vt 0.6086956 0.75
+vt 0.6086956 0.7916667
+vt 0.5652174 0.7916667
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g 1_1_tacoGun1_mesh_0003
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+

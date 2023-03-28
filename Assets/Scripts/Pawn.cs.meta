@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e054d3bfa4c178409a947a97f75f87b
+timeCreated: 1512671461
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileOn: {instanceID: 0}
+  - goldAnimation: {instanceID: 0}
+  - goldAnimationRef: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
